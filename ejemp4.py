@@ -1,3 +1,3 @@
 class Prueba:
-    def __init__(self) -> None:
+    def __init__(self, op1, op2) -> None:
         pass
